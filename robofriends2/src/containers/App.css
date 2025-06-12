@@ -1,0 +1,11 @@
+    @font-face {
+    font-family: 'ASTRO Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('ASTRO Regular'), url('Astro.woff') format('woff');
+    }
+
+    h1 {
+        font-family: 'ASTRO Regular';
+        font-weight: 200;
+    }
